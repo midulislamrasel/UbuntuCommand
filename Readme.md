@@ -10,3 +10,5 @@
    mkdir FolderName
 4. Ubuntu ফাইল তৈরি
    gedit bar.txt
+5. Folder chang
+   ~/FolderName
